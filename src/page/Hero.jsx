@@ -41,7 +41,7 @@ const Hero = () => {
         {/* Logo and Brand */}
         <div className="absolute top-6 left-6 flex items-center space-x-4 z-20 bg-white/10 p-3 rounded-xl backdrop-blur-sm">
           <img
-            src="src/assets/bluechip-logo75X92.png"
+            src="assets/bluechip-logo75X92.png"
             alt="bluechip-logo"
             className="h-14 w-14 object-contain hover:scale-110 transition-transform duration-300"
           />

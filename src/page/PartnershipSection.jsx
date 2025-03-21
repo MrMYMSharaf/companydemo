@@ -3,13 +3,13 @@ import { motion } from 'framer-motion';
 
 const PartnershipSection = () => {
   const partners = [
-    { name: "Infor", description: "Enterprise software solutions and ERP systems", image: "src/assets/partnerships/infor.png" },
-    { name: "Oracle", description: "Database and cloud solutions", image: "src/assets/partnerships/Oracle.png" },
-    { name: "RVI", description: "Document imaging and workflow solutions", image: "src/assets/partnerships/RVI.png" },
-    { name: "WatchGuard", description: "Network security and intelligence", image: "src/assets/partnerships/WG1.png" },
-    { name: "FingerTec", description: "Biometric time attendance & door access", image: "src/assets/partnerships/fingertech.png" },
-    { name: "Euronet", description: "Payment and financial technology solutions", image: "src/assets/partnerships/euronet.png" },
-    { name: "Alliance Storage", description: "Enterprise storage solutions", image: "src/assets/partnerships/alliance.png" },
+    { name: "Infor", description: "Enterprise software solutions and ERP systems", image: "assets/partnerships/infor.png" },
+    { name: "Oracle", description: "Database and cloud solutions", image: "assets/partnerships/Oracle.png" },
+    { name: "RVI", description: "Document imaging and workflow solutions", image: "assets/partnerships/RVI.png" },
+    { name: "WatchGuard", description: "Network security and intelligence", image: "assets/partnerships/WG1.png" },
+    { name: "FingerTec", description: "Biometric time attendance & door access", image: "assets/partnerships/fingertech.png" },
+    { name: "Euronet", description: "Payment and financial technology solutions", image: "assets/partnerships/euronet.png" },
+    { name: "Alliance Storage", description: "Enterprise storage solutions", image: "assets/partnerships/alliance.png" },
   ];
 
   const containerVariants = {
